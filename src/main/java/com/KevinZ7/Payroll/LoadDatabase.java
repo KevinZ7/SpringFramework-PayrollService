@@ -6,6 +6,9 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
+import com.KevinZ7.Payroll.entity.Employee;
+import com.KevinZ7.Payroll.repository.EmployeeRepository;
+
 @Configuration
 class LoadDatabase {
 

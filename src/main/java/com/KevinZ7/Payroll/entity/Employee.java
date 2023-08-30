@@ -1,4 +1,4 @@
-package com.KevinZ7.Payroll;
+package com.KevinZ7.Payroll.entity;
 
 import java.util.Objects;
 
